@@ -49,5 +49,45 @@ This will help the Senior Management in taking some decisive actions on the curr
 ## Tableau link for the Claims Optimisation Storyboard:
 https://public.tableau.com/app/profile/vivek.sagar7834/viz/DVTProjectCarinsuranceClaims/CLAIMOPTIMISATIONSTORY?publish=yes
 
+.
+
+.
+
+
+
 ## Few snapshots of the storyboard:
+* ### Claim Analytics Dashboard:
+<img width="1680" alt="Screenshot 2024-01-01 at 11 56 06 PM" src="https://github.com/VivekSagarSingh/Car-Insurance-Claims-Optimisation-Storyboard/assets/153344691/0d5bb6b0-c347-4fd5-97d8-3d1581f8e57a">
+
+* ### Occupation Dashboard:
+<img width="1680" alt="Screenshot 2024-01-01 at 11 56 40 PM" src="https://github.com/VivekSagarSingh/Car-Insurance-Claims-Optimisation-Storyboard/assets/153344691/19541341-5ef7-4dc1-88cf-01198bc288e6">
+
+
+* ### Family Dashboard:
+
+<img width="1680" alt="Screenshot 2024-01-01 at 11 57 10 PM" src="https://github.com/VivekSagarSingh/Car-Insurance-Claims-Optimisation-Storyboard/assets/153344691/194dbe83-0994-467f-91dc-287b38c93dcb">
+
+
+
+* ### Top N customers Dashboard:
+<img width="1680" alt="Screenshot 2024-01-01 at 11 57 25 PM" src="https://github.com/VivekSagarSingh/Car-Insurance-Claims-Optimisation-Storyboard/assets/153344691/3716ba73-b61c-43d9-8cb8-e64714a32ada">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
