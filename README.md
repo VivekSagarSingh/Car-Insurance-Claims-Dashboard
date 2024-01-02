@@ -1,5 +1,11 @@
 # Car Insurance Claims Optimisation Storyboard
 Data Visualisation using Tableau
+
+
+## Tableau link for the Claims Optimisation Storyboard:
+https://public.tableau.com/app/profile/vivek.sagar7834/viz/DVTProjectCarinsuranceClaims/CLAIMOPTIMISATIONSTORY?publish=yes
+
+
 ## Problem Statement:
 
 Here we have been provided with Car Insurance Claims dataset. Our task is to explore the data, create different plots and interpret useful insights/findings. Our end goal here will be to create a storyboard to be presented to the Senior Management and the story has to have an end objective and should follow a logical flow. 
@@ -43,17 +49,6 @@ This will help the Senior Management in taking some decisive actions on the curr
 * Customers who have no kids driving are more likely to claim insurance. But among the Customers who have atleast one kid driving, customers with high school degree are to be targeted as they have highest number of kids driving as well as highest claims.
 * **Hence we can conclude by saying that our target customers are the high income group of PhD holders as well as Doctors as they are are the ones with least claims . Female SUV customers (as they dominate SUVS(96%)) and Blue collar customers are also to be targeted but with purpose of charging high premiums as they are the ones who are claiming the insurance more frequently. Also even though SUV and Minivan Customers are the ones with most claims, 60% of private SUVs and Minivans customers haven't claimed even once in last 5 years which should also be looked into.**
   
-
-
-
-## Tableau link for the Claims Optimisation Storyboard:
-https://public.tableau.com/app/profile/vivek.sagar7834/viz/DVTProjectCarinsuranceClaims/CLAIMOPTIMISATIONSTORY?publish=yes
-
-.
-
-.
-
-
 
 ## Few snapshots of the storyboard:
 * ### Claim Analytics Dashboard:
